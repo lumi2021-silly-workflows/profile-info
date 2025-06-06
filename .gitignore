@@ -52,3 +52,9 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+
+# tokens and secrets
+*.env
+
+# tests
+dummy.md
